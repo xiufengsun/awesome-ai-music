@@ -27,6 +27,8 @@ Built and maintained by the team at [MusicWave](https://www.musicwave.ai) with c
 
 ## Music Generation Platforms
 
+- **[Cadence Music](https://music.rynn.me)** — Free AI song generator in the browser: describe a gift or paste lyrics → full song with vocals. 4 free/day, no watermark; Keep $1.99.
+
 Hosted AI music generation services. Most offer web UIs and some expose APIs.
 
 ### Commercial Platforms
